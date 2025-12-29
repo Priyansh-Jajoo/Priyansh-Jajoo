@@ -33,8 +33,6 @@ I am a Researcher and Data Scientist focused on the **Generalization Crisis** in
 - Focused on data cleaning pipelines and statistical correlation analysis.
 - [🔗 View on GitHub](https://github.com/Priyansh-Jajoo/Alzheimer-s-disease-aging-analysis)
 
-**(Note: I removed the "Coal Terminal" project. It is too "Business BI". Keep it in your repo list, but do not highlight it here).**
-
 🎓 **Education**
 - **M.S. Data Analytics** | Clark University (GPA: 3.85/4.0)
 - **B.E. Electronics & Communication** | Specialization in Signal Processing.
