@@ -20,7 +20,7 @@ I am a Researcher and Data Scientist focused on the **Generalization Crisis** in
 *Current research at Technuf.*
 - Investigating the fragility of Foundation Model detectors against Gaussian noise and compression attacks.
 - **Key Output:** Identified a 40% performance drop in ViT-based detectors under adversarial perturbation.
-- [🔗 Link to Paper Draft/Abstract] (Create a repo just for the Abstract/Graphs if you can't share code).
+- [🔗 View on Github] (https://github.com/Priyansh-Jajoo/Adversarial-Deepfake-Survey).
 
 **2. Canadian Macroeconomic Forecasting (ARIMA/RF)**
 - Rigorous time-series analysis of 60+ years of economic data.
